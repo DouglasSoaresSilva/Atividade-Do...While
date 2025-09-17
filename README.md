@@ -7,7 +7,6 @@
 
 </head>
 <body>
-    <h1>Explicação dos Códigos em Java - Do...While</h1>
     <h2>1. Números Pares entre 1 e 20</h2>
         <p>Tem como objetivo imprimir todos os números pares entre 1 e 20. O código começa com o número 2 (o primeiro número par) e, em seguida, incrementa 2 a cada iteração para garantir que o número seja par. A estrutura <strong>do...while</strong> é usada para garantir que o código dentro do loop seja executado pelo menos uma vez, e a condição do loop verifica se o número ainda é menor ou se é igual a 20, permitindo que o loop continue até que o número ultrapasse 20.</p>
     <img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/568b4df7-47bd-4e97-91be-6d7d4a48b47f" />
